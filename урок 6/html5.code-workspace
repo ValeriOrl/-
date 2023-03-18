@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../html5"
+		},
+		{
+			"path": "../../Курс/5. Тэги для текстовых элементов - h1-h6, p, q, blockquoute, address/code/html5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html5"
+	}
+}
